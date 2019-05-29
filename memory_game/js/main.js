@@ -51,6 +51,10 @@ function createBoard() {
 }
 };
 
+function refreshPage(){
+	window.location.reload();
+}
+
 
 createBoard();
 
